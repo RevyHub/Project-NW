@@ -60,4 +60,5 @@ If you require a legal interpretation of this notice, consult qualified counsel.
 
 Contact & security reporting
 
-Report security issues or policy concerns to: SECURITY@your-org.example (replace with your contact channel). Do not disclose vulnerabilities publicly before coordinated remediation.
+Report security issues or policy concerns to me Revy
+
