@@ -62,3 +62,39 @@ Contact & security reporting
 
 Report security issues or policy concerns to me Revy
 
+Project structure
+-----------------
+
+```
+Project-NW/
+  app.py
+  requirements.txt
+  nullwarden/
+    __init__.py
+    core/
+      __init__.py
+      auth.py
+    network/
+      __init__.py
+      recon.py
+    ui/
+      __init__.py
+      banners.py
+```
+
+Setup
+-----
+
+1. Create a virtual environment (recommended)
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run
+---
+
+```bash
+python app.py
+```
